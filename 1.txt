@@ -1,0 +1,6 @@
+Name of product: apple
+Cost of product: 20
+Quantity of product: 10
+Name of product: cuccumber
+Cost of product: 12
+Quantity of product: 6
